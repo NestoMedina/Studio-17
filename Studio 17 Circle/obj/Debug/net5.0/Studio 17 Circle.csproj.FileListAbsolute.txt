@@ -1,0 +1,16 @@
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\Studio 17 Circle.csproj.AssemblyReference.cache
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\Studio 17 Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\Studio 17 Circle.AssemblyInfoInputs.cache
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\Studio 17 Circle.AssemblyInfo.cs
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\Studio 17 Circle.csproj.CoreCompileInputs.cache
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\bin\Debug\net5.0\Studio 17 Circle.exe
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\bin\Debug\net5.0\Studio 17 Circle.deps.json
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\bin\Debug\net5.0\Studio 17 Circle.runtimeconfig.json
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\bin\Debug\net5.0\Studio 17 Circle.runtimeconfig.dev.json
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\bin\Debug\net5.0\Studio 17 Circle.dll
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\bin\Debug\net5.0\ref\Studio 17 Circle.dll
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\bin\Debug\net5.0\Studio 17 Circle.pdb
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\Studio 17 Circle.dll
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\ref\Studio 17 Circle.dll
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\Studio 17 Circle.pdb
+C:\Users\Loft\Desktop\launch\Studio 17 Circle\Studio 17 Circle\obj\Debug\net5.0\Studio 17 Circle.genruntimeconfig.cache
